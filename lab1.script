@@ -1,0 +1,18 @@
+Script started on 廿十七年三月十四日 (週二) 十一時56分37秒
+]0;yu@yu-VirtualBox: ~/lab1[01;32myu@yu-VirtualBox[00m:[01;34m~/lab1[00m$ who [Kami;pwd
+yu
+/home/yu/lab1
+]0;yu@yu-VirtualBox: ~/lab1[01;32myu@yu-VirtualBox[00m:[01;34m~/lab1[00m$ git cong[Kfig -l
+user.email=jordan8715069@gmail.com
+user.name=HongYuu
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/HongYuu/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;yu@yu-VirtualBox: ~/lab1[01;32myu@yu-VirtualBox[00m:[01;34m~/lab1[00m$ exit
+
+Script done on 廿十七年三月十四日 (週二) 十一時56分58秒
